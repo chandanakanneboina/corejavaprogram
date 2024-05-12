@@ -9,7 +9,7 @@ public class Thiskeyworddemo {
 		this.name=name;
 	}
 	public static void main(String[] args) {
-		Thiskeyworddemo f=new Thiskeyworddemo(1,"r");
+		Thiskeyworddemo f  =new Thiskeyworddemo(1,"r");
 	}
 
 }

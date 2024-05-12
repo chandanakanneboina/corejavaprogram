@@ -14,10 +14,10 @@ public class Example {
 		System.out.println("3 parameter");
 	}
 	public static void main(String[] args) {
-		Example e1=new Example();
-		Example e2=new Example(7,8);
-		Example e3=new Example(4,"s");
-		Example e4=new Example(1,3,4);
+	  Example e1 =new Example();
+		Example e2  = new Example(7,8);
+		Example e3  = new Example(4,"s");
+		Example e4 = new Example(1,3,4);
 
 	}
 }
