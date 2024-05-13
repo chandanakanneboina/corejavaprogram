@@ -1,13 +1,22 @@
 package com.tnsif.practice;
 public class Firstprogram {
-	private void sysout() {
-		int a;
-		int b;
-		int c;
-		a=3;
-		b=3;
-		result=a+b;
-		System.out.println(result);
-	
+	  public   int  a=9;// data member
+	    private float g=9.6f;
+	    protected int s=5;
+	  
+	  int d=3;
+	    void main() { // member function
+	    	
+	    }
+		public static void main(String[] args) {
+			//System.out.println("welcome to java");
+			Firstprogram f=new Firstprogram();
+			
+			System.out.println(f.a);
+			System.out.println(f.g);
+			System.out.println(f.s);
+			System.out.println(f.d);
+
+		}
+
 	}
-	
