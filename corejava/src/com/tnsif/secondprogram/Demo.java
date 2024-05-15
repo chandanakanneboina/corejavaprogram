@@ -8,6 +8,4 @@ public class Demo {
 		//System.out.println(f.g);
 		//System.out.println(f.d);
 	}
-
-
 }
